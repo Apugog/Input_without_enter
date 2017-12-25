@@ -15,11 +15,11 @@ ch = getch();
 cha = ch;
 if(cha=='x')
 {
-	cout<<"gukha";
+	cout<<"x_pressed";
 }
 if(cha=='y')
 {
-	cout<<"mutkha";
+	cout<<"Y_pressed";
 }
 }
 }
